@@ -1,0 +1,1946 @@
+ACCT100 Principles of Accounting
+ACCT104 Business Accounting
+ACCT200 Accounting Information for Managers
+ACCT204 Managerial Accounting A
+ACCT207 Financial Accounting A
+ACCT209 Financial Accounting B
+ACCT300 Auditing and Assurance Services
+ACCT303 Managerial Accounting B
+ACCT304 Accounting Theory
+ACCT600 Accounting for Decision-Making
+ACCT601 Australian Auditing and Assurance Services
+ACCT602 Accounting and Accountability
+ACCT603 Accounting for Corporate Structures
+ACCT604 Strategic Managerial Accounting
+ACCT605 Strategic Resource Management
+ADAB113 Australian Indigenous Peoples, Cultures and Identity
+ADAB203 Indigenous Contemporary Issues
+ADAB204 Australian History in an Indigenous Context
+ADAB304 Indigenous Teachers in Australian Education
+ADAC224 Understanding Behaviours and Disability
+ADAC225 Family Studies and Disability
+ADAR308 Creative Arts Education 1: Introduction to the Creative Arts
+ADAR368 Creative Arts Education 1: Introduction to the Creative Arts
+ADAR422 Creative Arts Education 2
+ADAR424 Visual Arts Education
+ADCU101 Early Childhood Education 1: Early Childhood Pedagogy and Curriculum
+ADCU202 Early Childhood Education 4: Building Curriculum Connections and Continuities
+ADCU301 Early Childhood Education 2
+ADDR403 Dance/Drama Education
+ADFD102 Race and Racism in Australian Educational Contexts
+ADFD112 Children at Risk
+ADFD127 Contexts for Learning and Development
+ADFD133 Understanding Learning
+ADFD136 Early Childhood Education 2: The Ecology of Childhood
+ADFD167 Contexts for Learning and Development
+ADFD210 Global Perspectives in Education
+ADFD212 Professional Ethics in Education
+ADFD218 Teaching and Learning: Preparing for the Contexts of the Field
+ADFD220 Teaching and Managing Learning Environments
+ADFD221 Creating Inclusive, Safe and Supportive Schools
+ADFD227 Early Childhood Education 3: Partnerships for Learning
+ADFD260 Teaching and Managing Learning Environments
+ADFD261 Creating Inclusive, Safe and Supportive Schools
+ADFD268 Teaching and Learning: Preparing for the Contexts of the Field
+ADFD314 Early Childhood Education 5: Early Childhood Leadership
+ADFD447 Diversity in the Classroom
+ADFD452 Transition into the Profession
+ADFD457 Action Research as a Reflective Practice
+ADFD458 Catering for Diversity in the Classroom
+ADFX110 Professional Experience Primary1
+ADFX111 Professional Experience Early Childhood 1
+ADFX112 Professional Experience Early Childhood 1A
+ADFX113 Professional Experience Early Childhood 1B
+ADFX207 Community Engagement Program
+ADFX212 Professional Experience Primary 2A
+ADFX213 Professional Experience Primary 2B
+ADFX215 Professional Experience Early Childhood 2
+ADFX217 Professional Experience Early Childhood 2A
+ADFX218 Professional Experience Early Childhood 2B
+ADFX267 Community Engagement Program
+ADFX310 Professional Experience Primary 3
+ADFX314 Professional Experience Early Childhood 3
+ADFX413 Professional Experience Primary 4
+ADLA107 Linguistics for Literacy
+ADLA108 Children's Literature for Literacy
+ADLA167 Linguistics for Literacy
+ADLA168 Children’s Literature for Literacy
+ADLA204 Literacy Education 1
+ADLA264 Literacy Education 1
+ADLA304 English Education 3
+ADLA309 Literacy Education 2
+ADMA103 Exploring Mathematics 1
+ADMA163 Exploring Mathematics 1
+ADMA202 Mathematics: Learning and Teaching 1
+ADMA262 Mathematics: Learning and Teaching 1
+ADMA309 Exploring Mathematics 2
+ADMA310 Mathematics: Learning and Teaching 2
+ADMA369 Exploring Mathematics 2
+ADMU416 Music Education
+ADPH306 Personal Development, Health and Physical Education?1
+ADPH307 Personal Development, Health and Physical Education 2
+ADPH366 Personal Development, Health and Physical Education 1
+ADPH367 Personal Development, Health and Physical Education 2
+ADRE101 Religious Education 1
+ADRE102 Religious Education 2
+ADRE306 Indigenous Spirituality 1
+ADRE421 Indigenous Spirituality 2
+ADSS428 Connecting Society and Environment: Curriculum for Learning
+ADSS468 Connecting Society and Environment: Curriculum for Learning
+ADST107 Science and Technology for Early Childhood and Primary Teachers 1
+ADST167 Science and Technology for Early Childhood and Primary Teachers 1
+ADST201 Science and Technology Education
+ADST204 Science and Technology for Early Childhood and Primary Teachers 2
+ADST261 Science and Technology Education
+ADST264 Science and Technology for Early Childhood and Primary Teachers 2
+ADTS103 Teaching Students with Special Needs
+ADTS108 Teaching and Classroom Management 2
+ADTS300 Curriculum Design and Evaluation
+AHBS100 Introduction to the Bible
+AHCT100 What Christians Believe
+AHCT202 Christian Symbol, Ritual and Sacrament
+AHEO162 Introducing the Scriptures
+AHEO228 The Christian Life: Worship and Ethics
+ALHT100 Paramedic Practice Foundations
+ALHT101 Paramedic Practice 1
+ALHT102 Paramedic Practice 2
+ALHT103 Exploring Paramedic Practice
+ALHT104 Foundations of Paramedic Practice
+ALHT105 Paramedic Practice: Respiratory Emergencies
+ALHT200 Contexts of Paramedicine 1
+ALHT201 Contexts of Paramedicine 2
+ALHT202 Paramedic Practice 3
+ALHT203 Traumatology in Paramedicine
+ALHT204 Paramedic Practice: Traumatology
+ALHT205 Environmental and Endocrine Emergencies
+ALHT206 Integrated Paramedic Practice
+ALHT207 Paramedic Practice: Mental Health
+ALHT208 Paramedic Practice: Neurological Emergencies
+ALHT209 Paramedic Practice: Cardiovascular Emergencies
+ALHT301 Contexts of Paramedicine 3
+ALHT303 Paramedic Practice: Obstetric and Paediatric Emergencies
+ALHT304 Synergy in Paramedic Practice
+ALHT305 Pre-Hospital Major Incident Management
+ALHT306 Paramedic Practitioner Health
+ALHT307 Paramedic Practice: Gastroenterology and Renal Emergencies
+ALHT308 Paramedic Practice: Emergency Department
+ALHT401 Contexts of Paramedicine 4
+APIS100 Introduction to Islam
+APIS101 Approaches to the Qur'an and Hadith
+APIS102 Sufism: Spiritual Journeys
+APIS200 Islamic Faith and Creeds: Ethics and Praxis
+APIS201 Sufism: Spiritual Journeys
+APIS202 Islam in Western Scholarship
+APIS203 Qur'anic Recitation
+APIS204 Islam: Special Study
+APIS205 Community Experience
+APIS300 Muslim Sects and Systems of Thought
+APIS301 Islamic Law: Legal Tradition and Society
+ARTS107 The Arts and Culture
+ARTS108 Introduction to Drawing
+ARTS109 2D Studies 1
+ARTS110 3D/4D Object Design 1
+ARTS111 Graphic Design 1
+ARTS112 Art and Design History and Theory 1
+ARTS113 2D Studies 2
+ARTS114 3D/4D Object Design 2
+ARTS115 Graphic Design 2
+ARTS116 Art and Design History and Theory 2
+ARTS225 2D Studies 3
+ARTS226 3D/4D Object Design 3
+ARTS227 Graphic Design 3
+ARTS228 Art and Design History and Theory 3
+ARTS230 Studio Theory
+ARTS231 Art and Design History and Theory 4
+ARTS232 Learning in the Community
+ARTS234 3D/4D Object Design 1
+ARTS235 Art and Design History and Theory 1
+ARTS236 3D/4D Object Design 2
+ARTS237 Art and Design History and Theory 2
+ARTS238 2D Studies 4
+ARTS239 3D/4D Object Design 4
+ARTS240 Graphic Design 4
+ARTS324 Art and Spirit
+ARTS325 Professional Practice
+ARTS326 Internship
+ARTS327 Self-Directed Studies 1
+ARTS329 Self-Directed Studies 2
+ARTS405 Practices of Research in Art and Design
+ARTS406 Issues of Ethical Practice in Art and Design
+ARTS407 Advanced Studies in Art and Design
+ARTS408 Research Thesis/Research Studio Practice A
+ARTS409 Research Thesis/Research Studio Practice B
+AUST200 Australian Cinema
+AUST201 Representing Indigenous Australia
+AUST202 Australian Identity
+AUST203 Media in Australia
+BAFN200 Principles of Finance
+BAFN203 Financial Planning
+BAFN204 Portfolio Management
+BAFN205 Financial Instruments and Institutions
+BAFN301 Financial Institutions Management
+BAFN302 International Business Finance
+BAFN303 Derivates Investment
+BAFN304 Superannuation and Retirement Planning
+BAFN305 Risk Management and Insurance
+BAFN600 Finance and Quantitative Methods
+BAFN601 International Finance
+BIOL101 Biodiversity
+BIOL102 Principles of Ecology
+BIOL111 Human Systems
+BIOL119 Foundation Biological Science 1
+BIOL120 Foundation Biological Science 2
+BIOL121 Human Biological Science 1
+BIOL122 Human Biological Science 2
+BIOL217 Human Genetics
+BIOL227 Vegetation Ecology
+BIOL228 Applied Science for Practice 3
+BIOL229 Applied Science for Practice 4
+BIOL230 Human Nutrition
+BIOL304 Ecotoxicology
+BIOL312 Conservation and Sustainability
+BIOL324 Animal Ecology
+BIOL326 Applied Science for Practice 5
+BIOL327 Marine and Coastal Ecology
+BIOL328 Microbiology and Biotechnology
+BIPX100 Professional Experience A
+BIPX201 Business Experience
+BIPX301 Professional Experience B
+BIPX302 Professional Experience C
+BUSN100 Reasoning and Communication
+BUSN101 Communicating in Business
+BUSN201 International Business
+BUSN202 Professional Ethics
+BUSN203 Business Ethics
+BUSN204 Small Business Governance Business
+BUSN205 Globalisation of Indigenous Business
+BUSN207 Ethics and Social Responsibility
+BUSN302 International Trade
+BUSN303 International Governance and Sustainability
+BUSN306 International Field Project
+BUSN401 Research Methods
+BUSN402 Advanced Business Coursework Unit 1
+BUSN405 Honours Proposal
+BUSN406 Honours Thesis (Full-time)
+BUSN408  Honours Thesis A (Part-time)
+BUSN409  Honours Thesis B (Part-time)
+BUSN410 Honours Thesis C (Part-time)
+BUSN411 Advanced Business Coursework Unit 2
+BUSN600 International Business Environment
+BUSN601 Business Research Project
+BUSN602 Money Management
+BUSN603 Corporate Governance and Social Responsibility
+CHEM100 Fundamentals of Chemistry
+CHEM102 Physical Chemistry
+CHEM201 Organic Chemistry and Biochemistry
+CHEM203 Environmental Chemistry
+COMM102 Introduction to Communication
+COMM103 Written Communication
+COMM213 Interpersonal Communication
+COMM218 Communication in the Workplace
+COMM219 New Media Communication
+COMM220 Writing the News
+COMM221 Communication Ethics
+COMM313 Convergent Media Journalism
+COMP104 Computing Systems
+COMP106 Data Communications
+COMP203 Multimedia Applications
+COMP205 Database Systems
+COUN106 Introduction to Counselling and Micro-Skills
+COUN108 Ethical and Professional Issues in Counselling
+COUN213 Mediation and Dispute Resolution
+COUN214 Grief and Loss Counselling
+COUN215 Theories and Techniques of Counselling 2
+COUN216 Religious and Spiritual Issues in Counselling
+COUN217 Counselling Diverse Populations
+COUN218 Counselling Children and Adolescents
+COUN219 Family and Relationship Counselling
+COUN221 Humanistic Theories and Interventions
+COUN222 Cognitive Behavioural Therapy
+COUN223 Psychodynamic Counselling
+COUN224 Addiction Counselling
+COUN225 Organisations and Group Processes
+COUN306 Clinical Fieldwork
+COUN500 Foundational Theories and Applications of Counselling
+COUN501 Counselling in Practice
+COUN502 Human Development and Contemporary Models of Counselling
+COUN503 Interaction Groups
+COUN504 Specialisations in Counselling 1
+COUN505 Advanced Interaction Groups
+COUN506 Specialisations in Counselling 2
+COUN507 Advanced Counselling in Practice
+COUN510 Supervised Practicum
+COUN520 Understanding Substance Use and Dependence
+COUN521 Assessment of Drug and Alcohol Use and Co-Morbidity
+COUN522 Counselling in the Context of Addiction
+COUN523 Supervised Practicum
+COUN601 Counselling Theories and Techniques
+COUN615 Leadership and Communication
+COUN616 Relationship and Family Counselling
+COUN617 Trauma Counselling
+COUN619 Counselling Special Study
+COUN620 Grief and Loss: Issues and Approaches
+COUN622 Mediation and Conflict Resolution
+COUN623 Practicum 1
+COUN625 Theories and Techniques of Counselling
+COUN626 Counselling Practice Skills
+COUN627 Lifespan and Developmental Issues in Counselling
+COUN628 Social and Cultural Critique 
+COUN629 Drug and Alcohol Counselling 
+COUN630 Group Processes in Counselling 
+COUN631 Ethics and Professional Practice 
+COUN632 Assessment and Cognitive Behaviour Therapy
+COUN633 Assessment and Psychodynamic Therapy
+COUN634 Worldview and Spiritual Issues in Counselling
+COUN635 Practicum II
+COUN636 Emerging Approaches in Counselling
+COUN637 Research in Counselling and Psychotherapy
+COUN650 Attachment Organisation and Adaptation
+COUN651 Emotional Development and Disturbance
+COUN652 The Child and Adolescent in the Family System 
+COUN653 Supervised Practicum A  
+COUN654 Counselling Children
+COUN655 Counselling Adolescents  
+COUN656 Therapeutic Play  
+COUN657 Supervised Practicum B  
+COUN658 Introduction to Research Methods  
+COUN660 Research Project  
+DVST100 Introduction to International Development Studies
+DVST200 Refugees and Forced Migration
+DVST201 Humanitarian and Development Work: a Dignity-based approach
+DVST202 Preparation for Immersion Experience
+DVST300 Peace and Development
+DVST301 Development Alternatives: Fair Trade
+DVST302 Research Methodologies for Development Projects
+DVST303 Advocacy and Policy Development
+DVST304 Immersion Experience
+EBAC129 Integration of Cultures and Learning 
+EBAC231 Citizenship and Ethics 
+EBAR351 Creative Arts: Visual Arts 
+EBDR111 Dance and Drama 
+EBFD104 Human Development 
+EBFD122 Educational Psychology 
+EBFD231 Psychology: Learning and the Child 
+EBFD242 Education and Society 
+EBFD362 Educational Philosophy 
+EBFD364 District Research Project 
+EBFX122 Professional Experience 1 
+EBFX242 Professional Experience 2 
+EBFX362 Professional Experience 3 
+EBLO111 Portuguese Language 1 
+EBLO122 Portuguese Language 2 
+EBLO231 Portuguese Language 3 
+EBLO242 Portuguese Language 4 
+EBLO351 Language and Literacy 1 
+EBLO362 Language and Literacy 2 
+EBMA122 Mathematics Education 1 
+EBMA242 Mathematics Education 2 
+EBMU122 Music Education 
+EBPH122 Health and Nutrition 
+EBPH231 Health and Physical Education 1 
+EBPH242 Health and Physical Education 2 
+EBRE351 Religious Education 1 
+EBRE362 Religious Education 2 
+EBSS111 Tetum and Cultural Studies 
+EBSS362 Studies of Society and Environment 
+EBSS364 East Timor History 
+EBST111 Computing and Study Skills 
+EBST231 Science Education 1 
+EBST362 Science Education 2 
+EBTS102 Teaching and Classroom Management 1 
+EBTS103 Curriculum Implementation 
+EBTS111 Teaching and Classroom Management 1 
+EBTS122 Teaching and Classroom Management 2 
+EBTS231 Children with Special Needs 
+EBTS242 Teaching and Classroom Management 3 
+EBTS351 Teaching and Classroom Management 4 
+ECON102 Microeconomics 1
+ECON103 Macroeconomics I
+ECON104 Business Economics
+ECON105 Economics for Business
+ECON201 International Business Economics
+ECON202 Microeconomics 2
+ECON203 Macroeconomics 2
+ECON204 Development Economics
+ECON205 Economic Policy Analysis
+ECON206 Economic Systems
+ECON207 The Evolution of Economic Thought
+ECON209 The Global Economy
+ECON210 Labour Economics
+ECON2XX  Economics
+ECON304 Applied Econometrics
+ECON600 Managerial Economics in a Global Environment
+EDAB107 Contemporary Issues in Indigenous History
+EDAB111 Indigenous Cultures and Peoples
+EDAB161 Indigenous Cultures and Peoples
+EDAB203 Indigenous Contemporary Issues
+EDAB204 Australian History in an Indigenous Context
+EDAC116 Interpersonal Communication Skills
+EDAC133 Attitudes and Inclusive Education
+EDAC135 Person-Centred Planning and Inclusive Learning
+EDAC137 Disability Studies
+EDAC138 Implementing Disability Competencies
+EDAC139 Technology and Communication
+EDAC218 Supporting Social Relationships
+EDAC220 Social Justice, Legal and Policy Issues
+EDAC223 Instructional Delivery in Community Settings
+EDAC224 Understanding Behaviours and Disability
+EDAC225 Family Studies and Disability
+EDAC226 Employment Support Issues and Practice
+EDAC227 Implementing Person Centred Supports
+EDAC228 Case Work and Management in Community Settings
+EDAC309 Strategic Management of Resources
+EDAC310 Advocacy, Power and Empowerment
+EDAC311 Professional Communication and Guidance
+EDAC312 Physical and Mental Health Issues
+EDAC313 Implementing Action Research in the Community/FBL
+EDAC314 Positive Behaviour Approaches
+EDAC315 Lifelong Learning and Ageing
+EDAC611 Designing and Implementing Child Abuse Prevention Programs
+EDAR308 Creative Arts Education 1: Introduction to the Creative Arts
+EDAR368 Creative Arts Education 1: Introduction to the Creative Arts
+EDAR401 Criticism, Aesthetics and Context in Art Education
+EDAR405 Teacher as Art Maker
+EDAR406 Aesthetics and Visual Literacy
+EDAR416 Visual Arts Curriculum and Teaching 1
+EDAR417 Visual Arts Curriculum and Teaching 2
+EDAR422 Creative Arts Education 2
+EDAR424 Visual Arts Education
+EDAR462 Creative Arts Education 2
+EDAR504 Creative Arts Curriculum
+EDAR516 Visual Arts Curriculum and Teaching 1
+EDAR517 Visual Arts Curriculum and Teaching 2
+EDAR518 Visual Arts Curriculum and Teaching 3
+EDAR519 Visual Arts Curriculum and Teaching 4
+EDAR602 Visual Arts Curriculum Studies: Advanced Professional Practice
+EDAR603 Teachers and Teaching in Arts Education
+EDAR604 Learners and Learning in Arts Education
+EDCU101 Early Childhood Education 1: Early Childhood Pedagogy and Curriculum
+EDCU202 Early Childhood Education 4: Building Curriculum Connections and Continuities
+EDCU301 Early Childhood Education 2: The Ecology of Childhood
+EDCU413 Teaching and Curriculum 1A
+EDCU415 Teaching and Curriculum 2A
+EDCU417 Curriculum and Assessment
+EDCU418 Contemporary Issues in School Curriculum
+EDCU463 Teaching and Curriculum 1A
+EDCU465 Teaching and Curriculum 2A
+EDCU502 Curriculum and Instruction (Karachi)
+EDCU508 Contemporary Issues in School Curriculum
+EDCU513 Teaching and Curriculum 1A
+EDCU515 Teaching and Curriculum 2A
+EDCU517 Curriculum and Assessment
+EDCU518 Contemporary Issues in School Curriculum
+EDCU607 Project
+EDCU609 Thesis (15,000 Words)
+EDCU614 Major Thesis MEd (F/T)
+EDCU615 Major Thesis MEd (P/T)
+EDCU619 Music Curriculum Studies
+EDCU620 Dance Curriculum Studies: Advanced Professional Practice
+EDCU621 Major Thesis MEd (F/T)
+EDCU622 Major Thesis MEd (P/T)
+EDCU701 Thesis - EdD Part 3 (F/T)
+EDCU703 Thesis - EdD Part 3 (F/T)
+EDCU704 EdD Thesis Part 2 (P/T)
+EDCU705 EdD Thesis Part 1 (P/T)
+EDDA500 Dance Curriculum and Teaching 1
+EDDA501 Dance Curriculum and Teaching 2
+EDDR401 Drama Curriculum and Teaching 1
+EDDR402 Drama Curriculum and Teaching 2
+EDDR403 Dance/Drama Education
+EDDR501 Drama Curriculum and Teaching 1
+EDDR502 Drama Curriculum and Teaching 2
+EDDR600 Drama Curriculum Studies: Advanced Professional Practice
+EDFD102 Race and Racism in Australian Educational Contexts
+EDFD111 Alternatives in Education
+EDFD112 Children at Risk
+EDFD124 Social Analysis and Community Outreach
+EDFD127 Contexts for Learning and Development
+EDFD133 Understanding Learning
+EDFD136 Early Childhood Education 2: The Ecology of Childhood
+EDFD167 Contexts for Learning and Development
+EDFD173 Understanding Learning
+EDFD177 Contexts for Learning and Development
+EDFD204 Catholic Education and Schooling
+EDFD210 Global Perspectives in Education
+EDFD212 Professional Ethics in Education
+EDFD213 Technology and Learning
+EDFD218 Teaching and Learning: Preparing for the Contexts of the Field
+EDFD220 Teaching and Managing Learning Environments
+EDFD221 Creating Inclusive, Safe and Supportive Schools
+EDFD227 Early Childhood Education 3: Partnerships for Learning
+EDFD260 Teaching and Managing Learning Environments
+EDFD261 Creating Inclusive, Safe and Supportive Schools
+EDFD268 Teaching and Learning: Preparing for the Contexts of the Field
+EDFD270 Teaching and Managing Learning Environments
+EDFD271 Creating Inclusive, Safe and Supportive Schools
+EDFD307 Educational Assessment
+EDFD314 Early Childhood Education 5: Early Childhood Leadership
+EDFD444 The Middle Years of Schooling
+EDFD447 Diversity in the Classroom
+EDFD449 Education Systems in an International Context
+EDFD452 Transition into the Profession
+EDFD454 Curriculum Literacies
+EDFD457 Action Research as a Reflective Practice
+EDFD458 Catering for Diversity in the Classroom
+EDFD459 The Learning Space
+EDFD460 Creativity and Imagination in Education
+EDFD462 Transition into the Profession
+EDFD467 Wellbeing and the Development of the Whole Person
+EDFD468 Catering for Diversity in the Classroom
+EDFD469 Evolving Learning Spaces
+EDFD470 Managing Challenging Behaviour
+EDFD472 Transition into the Profession
+EDFD477 Action Research as a Reflective Practice
+EDFD497 Diversity in the Classroom
+EDFD506 Evaluation and Measurement (Pakistan)
+EDFD507 Human Development in Educational Settings (Pakistan)
+EDFD508 Perspectives of Education in Pakistan (Pakistan)
+EDFD509 School Organisation and Management (Pakistan)
+EDFD510 Educational Sociology (Pakistan)
+EDFD511 Classroom Teaching and Management (Pakistan)
+EDFD527 Diversity in the Inclusive Classroom
+EDFD528 Social and Cultural Contexts of Development and Learning
+EDFD529 Effective Teaching and Professional Practice
+EDFD530 Catering for Diversity in the Classroom
+EDFD532 Action Research as Reflective Practice
+EDFD546 Development and Learning
+EDFD547 Diversity in the Classroom
+EDFD548 Effective Teaching and Professional Practice
+EDFD549 Education Systems in an International Context
+EDFD553 Social and Cultural Contexts of Education
+EDFD589 Effective Teaching and Professional Practice
+EDFD601 Curriculum Planning and Development (Pakistan)
+EDFD604 Managing Challenging Behaviour
+EDFD617 Research Project
+EDFD624 Perspectives and Issues in Education (Pakistan)
+EDFD625 Psychology and Education: Teaching and Learning Issues (Pakistan)
+EDFD626 Research Methodologies (Pakistan)
+EDFD627 Research Project (Pakistan)
+EDFD628 Educational Planning for Change and Development (Pakistan)
+EDFD633 Methods of Educational Research
+EDFD648 Engaging Learners in the Early Years
+EDFD649 Research Project Part 1
+EDFD650 Research Project Part 2
+EDFD651 Social Justice: A Whole School Approach
+EDFD652 Issues in Wellbeing in Inclusive Schooling
+EDFD655 Methods of Educational Research
+EDFD657 Transition to the Profession: Integrated Curriculum Planning
+EDFD658 Interpreting and Designing Educational Research
+EDFD659 Leading Teaching and Learning
+EDFD660 Understanding Childhood and Learning
+EDFD662 Wellbeing in Inclusive Schooling
+EDFD663 Issues in the Profession
+EDFD667 Gifted Education: Contexts and Issues
+EDFD668 Interpreting and Designing Educational Research
+EDFD669 Gifted Education: Profiling, Provisions and Partnerships
+EDFD670 Leadership and Advocacy in Gifted Education
+EDFD688 Interpreting and Designing Educational Research
+EDFD705 Research Problem Exploration in Context
+EDFD706 Literature and Theoretical Critique
+EDFD707 Research Paradigms, Methodologies and Methods
+EDFD708 Education and Globalisation
+EDFD709 Learning, Development and Educational Practice
+EDFD710 Spiritual and Ethical Dimensions of Education
+EDFD711 Dissertation A
+EDFD712 Dissertation B
+EDFD713 Dissertation C
+EDFD714 Research Problem Exploration in Context
+EDFD715 Literature and Theoretical Critique
+EDFD716 Research Paradigms, Methodologies and Methods
+EDFX110 Professional Experience Primary 1
+EDFX111 Professional Experience Early Childhood 1
+EDFX112 Professional Experience Early Childhood 1A
+EDFX113 Professional Experience Early Childhood 1B
+EDFX170 Professional Experience 1
+EDFX207 Community Engagement Program
+EDFX212 Professional Experience Primary 2A
+EDFX213 Professional Experience Primary 2B
+EDFX214 Professional Experience Secondary 2
+EDFX215 Professional Experience Early Childhood 2
+EDFX216 Professional Experience Primary 2
+EDFX217 Professional Experience Early Childhood 2A
+EDFX218 Professional Experience Early Childhood 2B
+EDFX267 Community Engagement Program
+EDFX277 Community Engagement Program
+EDFX310 Professional Experience Primary 3
+EDFX311 Professional Experience Secondary 3
+EDFX312 Professional Experience Secondary 3A
+EDFX313 Professional Experience Secondary 3B
+EDFX314 Professional Experience Early Childhood 3
+EDFX315 Professional Experience Early Childhood 3A
+EDFX316 Professional Experience Early Childhood 3B
+EDFX317 Professional Practice
+EDFX409 Internship
+EDFX413 Professional Experience Primary 4 Extended Reflective Practice
+EDFX414 Extended Reflective Practice
+EDFX415 Professional Experience Primary 4: Internship 1
+EDFX416 Professional Experience Primary 4: Internship 2
+EDFX417 Professional Transition
+EDFX473 Professional Experience 4
+EDFX500 Professional Practice A (Pakistan)
+EDFX501 Professional Practice B (Pakistan)
+EDFX503 Graduate Professional Experience Secondary 1
+EDFX504 Graduate Professional Experience Secondary 2
+EDFX506 Graduate Professional Experience Primary 1
+EDFX507 Graduate Professional Experience Primary 2
+EDFX508 Extended Reflective Practice
+EDFX509 Graduate Professional Experience Primary 3
+EDFX510 Graduate Professional Experience Primary 4
+EDFX511 Graduate Professional Practice Secondary 1
+EDFX512 Graduate Professional Practice Secondary 2
+EDFX513 Graduate Professional Experience Secondary 3
+EDFX600 Graduate Professional Experience (Pakistan)
+EDLA104 Communication Skills and their Contexts
+EDLA107 Linguistics for Literacy
+EDLA108 Children’s Literature for Literacy
+EDLA167 Linguistics for Literacy
+EDLA168 Children’s Literature for Literacy
+EDLA200 Classroom Communication Skills
+EDLA203 Literacy in the Early Years
+EDLA204 Literacy Education 1
+EDLA264 Literacy Education 1
+EDLA309 Literacy Education 2
+EDLA369 Literacy Education 2
+EDLA403 Children and Literature
+EDLA413 TESOL Techniques
+EDLA430 Cross-Curriculum Uses of Children's Literature
+EDLA440 ESL Curriculum and Teaching 1
+EDLA441 ESL Curriculum and Teaching 2
+EDLA450 Language and Literacy Education
+EDLA478 English Curriculum and Teaching 1
+EDLA479 English Curriculum and Teaching 2
+EDLA514 English Curriculum Studies (Karachi)
+EDLA517 Language and Literacy Education 
+EDLA518 Language and Literacy Education 1
+EDLA519 Language and Literacy Education 2
+EDLA520 The Nature of English
+EDLA521 TESOL in Practice
+EDLA522 Literacy for TESOL
+EDLA523 Assessing Learner Needs
+EDLA538 English Curriculum and Teaching 1
+EDLA539 English Curriculum and Teaching 2
+EDLA540 ESL Curriculum and Teaching 1
+EDLA541 ESL Curriculum and Teaching 2
+EDLA612 Assessment and Curriculum Design in TESOL
+EDLA614 Language, Culture and Communication
+EDLA615 Literacy in the Early Years
+EDLA616 Literature for Children and Young Adults
+EDLA618 Teaching Strategies for TESOL
+EDLA619 Language and Learning
+EDLA625 Literacy Education in Contemporary Society
+EDLA626 Ways of Meaning: Language in Education
+EDLE601 Human Resource Management and Development
+EDLE605 Leading Educational Change
+EDLE622 Theory and Practice of Educational Administration and Leadership (Pakistan)
+EDLE632 Leadership Spirituality
+EDLE633 Leading Authentic Learning
+EDLE634 Employment Relations and the Legal Context in Education
+EDLE636 Leading the Catholic School
+EDLE638 Faith Leadership
+EDLE639 Educational Policy and Governance
+EDLE640 Perspectives on Leadership
+EDLE641 Values and Leadership
+EDLE642 Leadership Theory into Practice
+EDLE643 Professional Practice Project
+EDLE670 Perspectives on Leadership (Pakistan)
+EDLE671 Values and Leadership (Pakistan)
+EDLE672 Leadership Theory into Practice (Pakistan)
+EDLE673 Leading Authentic Learning (Pakistan)
+EDLE674 Shared Leadership (Pakistan)
+EDLE675 Leading Educational Change (Pakistan)
+EDLE676 Leading the Catholic School (Pakistan)
+EDLE678 Professional Practice Project (Pakistan)
+EDLE679 Human Resource Management and Development (Pakistan)
+EDLO302 LOTE Education 1
+EDLO409 LOTE Curriculum and Teaching 1
+EDLO411 LOTE Curriculum and Teaching 2
+EDLO509 LOTE Curriculum and Teaching 1
+EDLO510 LOTE Curriculum and Teaching 2
+EDLO511 LOTE Curriculum and Teaching 3
+EDLO512 LOTE Curriculum and Teaching 4
+EDMA103 Exploring Mathematics 1
+EDMA163 Exploring Mathematics 1
+EDMA201 Numeracy in the Early Years
+EDMA202 Mathematics: Learning and Teaching 1
+EDMA262 Mathematics: Learning and Teaching 1
+EDMA309 Exploring Mathematics 2
+EDMA310 Mathematics: Learning and Teaching 2
+EDMA360 Mathematics: Learning and Teaching 2
+EDMA369 Exploring Mathematics 2
+EDMA401 Active Learning in Mathematics
+EDMA404 Mathematics Curriculum and Development
+EDMA410 Linking Mathematics, Learning and Teaching
+EDMA411 Number Development in Middle School Mathematics
+EDMA412 Geometry and Measurement in Middle School Mathematics
+EDMA413 Statistics and Probability in Middle School Mathematics
+EDMA414 Algebra and Function in Middle School Mathematics
+EDMA417 Mathematics Curriculum and Teaching 1
+EDMA418 Mathematics Curriculum and Teaching 2
+EDMA502 Mathematics Curriculum Studies (Pakistan)
+EDMA503 Mathematics Curriculum
+EDMA504 Mathematics Curriculum 1
+EDMA505 Mathematics Curriculum 2
+EDMA511 Number Development in Middle School Mathematics
+EDMA512 Geometry and Measurement in Middle School Mathematics
+EDMA513 Statistics and Probability in Middle School Mathematics
+EDMA514 Algebra and Function in Middle School Mathematics
+EDMA517 Mathematics Curriculum and Teaching 1
+EDMA518 Mathematics Curriculum and Teaching 2
+EDMA519 Mathematics Curriculum and Teaching 3
+EDMA520 Mathematics Curriculum and Teaching 4
+EDMA628 Learning and Learners in Mathematics
+EDMA629 Teaching and Teachers in Mathematics
+EDMA630 Teaching and Learning Mathematics in the Middle Years
+EDMA631 Early Years Mathematics Education
+EDMU416 Music Education
+EDMU501 Introduction to Orff Music and Movement Education
+EDMU504 The Orff Approach in School and Community Settings
+EDMU508 Music Curriculum and Teaching 1
+EDMU509 Music Curriculum and Teaching 2
+EDMU510 Music Curriculum and Teaching 3
+EDMU511 Music Curriculum and Teaching 4
+EDPA100 Pastoral Care 1
+EDPH104 Physical Education 1
+EDPH204 Health Education
+EDPH205 Motor Function and Development for Children with Disabilities
+EDPH306 Personal Development, Health and Physical Education 1
+EDPH307 Personal Development, Health and Physical Education 2
+EDPH366 Personal Development, Health and Physical Education 1
+EDPH367 Personal Development, Health and Physical Education 2
+EDPH408 Health Studies K-6: Movement Education
+EDPH411 Recreation and Outdoor Education in the Primary School
+EDPH500 Personal Development Health and Physical Education Curriculum
+EDPH514 Physical Education Curriculum and Teaching 1
+EDPH515 Physical Education Curriculum and Teaching 2
+EDPH521 Personal Development, Health and Physical Education Curriculum and Teaching 1
+EDPH522 Personal Development, Health and Physical Education Curriculum and Teaching 2
+EDPH523 Personal Development, Health and Physical Education Curriculum and Teaching 3
+EDPH524 Personal Development, Health and Physical Education Curriculum and Teaching 4
+EDRE101 Religious Education 1
+EDRE102 Religious Education 2
+EDRE105 Religious Education 3
+EDRE106 Religious Education 4
+EDRE161 Religious Education 1
+EDRE162 Religious Education 2
+EDRE300 Religious Education Curriculum and Teaching Studies 1
+EDRE301 Religious Education Curriculum and Teaching Studies 2
+EDRE306 Indigenous Spirituality 1
+EDRE309 Ethics in Professional Practice
+EDRE321 Teaching Religion Studies in Years 11 and 12
+EDRE429 Foundation Studies: Teaching in Catholic Schools
+EDRE515 Principles of Religious Education
+EDRE516 Religious Education Curriculum
+EDRE517 Liturgy and Prayer in Religious Education
+EDRE519 Spirituality, Values and Religious Education
+EDRE520 Religious Education Seminar
+EDRE521 Teaching Religion Studies in Years 11 and 12
+EDRE523 Religious Education and Social Justice
+EDRE524 Religious Education and the Young Child
+EDRE526 Introducing Religious Education
+EDRE527 Religious Education Curriculum and Teaching Studies 1
+EDRE528 Religious Education Curriculum and Teaching Studies 2
+EDRE529 Teaching the Catholic Tradition
+EDRE530 Religious Education in the Parish
+EDRE531 Education and School Chaplaincy
+EDRE532 Educating for Inter-religious Awareness
+EDRE533 Religious Education Curriculum and Teaching Studies 3
+EDRE534 Religious Education Curriculum and Teaching Studies 4
+EDRE621 History and Theories of Religious Education
+EDRE622 Cultural Contexts of Religious Education
+EDRE623 Coordination in Religious Education
+EDRE624 Curriculum in Religious Education
+EDRE626 Faith, Moral Development and Values Education
+EDRE627 Social Justice and Religious Education
+EDRE628 Creative Arts and Religious Education
+EDRE629 Spirituality and the Religious Educator
+EDRE632 Teaching World Religions
+EDRE633 Religious Education Project
+EDRE635 Religious Education Independent Unit
+EDRE636 Religious Education Seminar
+EDRE639 Religious Education in the Faith Community
+EDRE641 Early Childhood and Religious Education
+EDRE642 Religious Foundations of Catholic Schools
+EDSL600 Leadership in Educational Systems
+EDSL601 Educational System Futures
+EDSL602 System Leadership in an Ecclesial Context
+EDSL603 Consultancy Skills for System Leaders
+EDSL604 Educational System Development Project 1
+EDSL605 Educational System Development Project 2
+EDSS100 Australia in an Asian Context
+EDSS322 Studies of Society and Environment
+EDSS420 History Curriculum and Teaching 1
+EDSS421 History Curriculum and Teaching 2
+EDSS428 Connecting Society and Environment: Curriculum for Learning
+EDSS430 Economics/Business Curriculum and Teaching 1
+EDSS431 Economics/Business Curriculum and Teaching 2
+EDSS432 Geography Curriculum and Teaching 1
+EDSS433 Geography Curriculum and Teaching 2
+EDSS468 Connecting Society and Environment
+EDSS470 History Curriculum and Teaching 1
+EDSS471 History Curriculum and Teaching 2
+EDSS472 Humanities Curriculum and Teaching 1
+EDSS473 Humanities Curriculum and Teaching 2
+EDSS501 Pakistan Curriculum Studies (Pakistan)
+EDSS502 Commerce Curriculum Studies (Pakistan)
+EDSS503 HSIE/SOSE Curriculum
+EDSS516 Commerce and Business Studies Curriculum and Teaching 1
+EDSS517 Commerce and Business Studies Curriculum and Teaching 2
+EDSS518 Commerce and Business Studies Curriculum and Teaching 3
+EDSS519 Commerce and Business Studies Curriculum and Teaching 4
+EDSS520 History Curriculum and Teaching 1
+EDSS521 History Curriculum and Teaching 2
+EDSS522 Humanities Curriculum and Teaching 1
+EDSS523 Humanities Curriculum and Teaching 2
+EDSS530 Economics and Business Curriculum and Teaching 1
+EDSS531 Economics and Business Curriculum and Teaching 2
+EDSS532 Geography Curriculum and Teaching 1
+EDSS533 Geography Curriculum and Teaching 2
+EDSS534 Studies of Society and Environment Curriculum and Teaching Studies 1
+EDSS535 Studies of Society and Environment Curriculum and Teaching Studies 2
+EDSS538 Society and Culture Curriculum and Teaching 1
+EDSS539 Society and Culture Curriculum and Teaching 2
+EDSS540 Legal Studies Curriculum and Teaching
+EDSS609 Counselling for Career Development
+EDSS610 Educating for Lifelong Career Development
+EDSS611 Professional Practice and Development
+EDSS612 The Postmodern Global Workplace
+EDST101 Environmental Studies
+EDST102 Computers in Education
+EDST107 Science and Technology for Early Childhood and Primary Teachers 1
+EDST167 Science and Technology for Early Childhood and Primary Teachers 1
+EDST200 Integrating Technology and Science
+EDST201 Science and Technology Education
+EDST204 Science and Technology for Early Childhood and Primary Teachers 2
+EDST261 Science and Technology Education
+EDST264 Science and Technology for Early Childhood and Primary Teachers 2
+EDST401 Educating for a Sustainable Future
+EDST411 Teaching with Information Technology
+EDST419 Designing IT Resources in Education
+EDST422 Environmental Education
+EDST429 Education for the 21st Century
+EDST441 ICT Curriculum and Teaching 1
+EDST442 ICT Curriculum and Teaching 2
+EDST447 Technology Curriculum and Teaching 1
+EDST448 Technology Curriculum and Teaching 2
+EDST503 General Science Curriculum Studies (Karachi)
+EDST505 Chemistry Curriculum Studies (Karachi)
+EDST506 Physics Curriculum Studies (Karachi)
+EDST507 Biology Curriculum Studies (Karachi)
+EDST512 Science and Technology Education
+EDST513 Computer Curriculum Studies (Karachi)
+EDST541 ICT Curriculum and Teaching 1
+EDST542 ICT Curriculum and Teaching 2
+EDST543 Science Curriculum and Teaching 1
+EDST544 Science Curriculum and Teaching 2
+EDST545 Science Curriculum and Teaching 3
+EDST546 Science Curriculum and Teaching 4
+EDST547 Technology Curriculum and Teaching 1
+EDST548 Technology Curriculum and Teaching 2
+EDST555 Biology Curriculum and Teaching 1
+EDST556 Chemistry Curriculum and Teaching 1
+EDST557 Physics Curriculum and Teaching 1
+EDST605 Information and Communication Technology in Education and Training
+EDST608 Online Instructional Systems
+EDST610 Creating a Sustainable World: Developing Ecoliteracy
+EDST613 Learning Science and Technology
+EDST614 Contexts for Teaching Science and Technology
+EDST615 Sustainability Science
+EDST616 ICT and Learning: Research and Practice
+EDST617 Designing and Implementing ICT Learning Environments
+EDTS100 Information Technology and the Classroom
+EDTS300 Curriculum Design and Evaluation
+EDTS421 Reflective Classroom Research
+EDTS425 Curriculum in Action
+EDTS426 Development of Positive Classroom Behaviour
+EDTS427 Reflexive Practice in Inclusive Education 
+EDTS505 Curriculum in Action
+EDTS508 Development of Positive Classroom Behaviour
+EDTS513 Contextual Issues for Inclusive Learning
+EDTS514 Assessment in Inclusive Education
+EDTS515 Inclusive Teaching Practices
+EDTS516 Inclusive School Community Practice
+EDTS602 Teacher Growth and Change
+EDTS604 Creating Collaborative Learning Communities
+EDTS607 Mentoring for Professional Learning and Development
+EDTS608 Professional Portfolios in Action
+EDTS618 Current Issues in Education and Learning
+ENGL102 Australian Literature: An Introduction
+ENGL104 Introduction to Literature
+ENGL105 English Language Communication Skills
+ENGL109 Writing the City
+ENGL200 Nineteenth-Century Literature
+ENGL202 Twentieth-Century Literature
+ENGL204 American Literature
+ENGL205 Australian Children's Literature
+ENGL206 Women and Literature
+ENGL208 Creative Writing
+ENGL210 Shakespeare and the Renaissance
+ENGL213 Sacred Australia
+ENGL215 Literature for Young Adults
+ENGL216 Myth, Epic and Romance
+ENGL217 Popular Literature
+ENGL221 Cultural Studies
+ENGL222 Literature and Visual Text
+ENGL223 Postcolonial Experiences
+ENGL224 The Romantic Imagination
+ENGL229 Reading and Writing the Self
+ENGL327 English Literature before Shakespeare
+ENGL328 Further Studies in Australian Literature
+ENGL329 The Visionary Imagination
+ENGL330 History of Children’s Literature
+ENGL331 Aspects of Literary Theory
+ENGL332 The Book of Books: the Bible and Its Uses in Western Literature
+ENVR100 Environmental Issues
+ENVR101 Soils and Water
+ENVR200 Landscape Hydrology and Management
+ENVR201 The Australian Environment: Values and Ethics
+ENVR202 Environmental Legislation and Planning
+ENVR203 Geographic Information Systems
+ENVR204 Environmental Sustainability
+ENVR300 Applied Studies 1 - Occupational Health and Safety
+ENVR301 Applied Studies 2 - Professional Development
+ENVR302 Environmental Impact Assessment
+ENVR308 Professional Work Experience
+ENVR400 Honours Thesis A (Full-time)
+ENVR401 Honours Thesis A (Part-time)
+ENVR403 Advanced Coursework Unit 1
+ENVR404 Advanced Coursework Unit 2
+ENVR405 Advanced Field Experience
+ENVR406 Honours Thesis B (Full-time)
+ENVR407 Honours Thesis B (Part-time)
+ENVR408 Honours Thesis C (Part-time)
+ENVR409 Honours Thesis D (Part-time)
+ERTH100 Earth Science
+ETHN101 Cultural Traditions of Asia
+ETHN105 Social Transformations in Asian Societies Since 1850
+ETHN106 Discovering Australia
+ETHN107 Australian Society
+ETHN201 Asian Literatures of Social Comment
+ETHN202 Australia and Asia
+ETHN203 Australian Domestic Architecture
+ETHN205 Gender in Asian Cultures
+ETHN206 Indonesian Society and Culture
+ETHN207 International Developments in Contemporary Asia
+ETHN208 Migration in the Asia-Pacific Region
+ETHN209 Northeast Asian Societies and Change
+ETHN211 Screen Studies in Asian Cultures
+ETHN212 Southeast Asian Societies and Change
+ETHN213 The Arts in Asian Cultures
+ETHN215 Japanese Society and Cultures
+ETHN217 Economic Development in Asia
+ETHN218 Asian Studies: Independent Study
+ETHN301 Australian Studies: Independent Study (3rd year only)
+EXSC101 Ethical Leadership in Sport
+EXSC102 Planning an Annual Program
+EXSC103 Talent Optimisation and Skill Learning
+EXSC104 Industry Practicum 1
+EXSC112 Functional Anatomy
+EXSC113 Industry Experience 1
+EXSC114 Professional Experience 1
+EXSC120 Mechanical Bases of Exercise
+EXSC187 Growth, Motor Development and Ageing
+EXSC189 Research and Ethics in Exercise Science
+EXSC198 Health, Fitness and Performance
+EXSC199 Psychology of Sport and Physical Activity
+EXSC200 Social and Emotional Well-Being of Young People
+EXSC201 Foundations of the Outdoor Experience
+EXSC202 Journeying in the Natural World
+EXSC203 Games and Sport Skills
+EXSC204 Exercise Testing and Prescription
+EXSC205 Industry Experience 2
+EXSC206 Professional Experience 2
+EXSC207 Leadership Behaviour
+EXSC208 Decision Making and Control in Resource Management for Sport
+EXSC209 Psychology of High Performance Competition
+EXSC211 Performance Analyses
+EXSC212 Competition Planning, Strategy and Tactics
+EXSC213 Acquiring and Retaining Expertise
+EXSC214 Industry Practicum 2
+EXSC220 Biomechanics
+EXSC230 Motor Control and Learning
+EXSC235 Sport Psychology
+EXSC236 Exercise Psychology
+EXSC240 Exercise Physiology
+EXSC241 Programming Resistance Training
+EXSC250 Gymnastics and Dance
+EXSC268 Financial Management of Sport and Exercise
+EXSC290 The Marine Environment and the Outdoor Experience
+EXSC292 Exercise Metabolism
+EXSC293 Neural Basis of Human Movement
+EXSC294 Outdoor Environments and Therapeutic Interventions
+EXSC295 Foundations of Health Promotion
+EXSC296 Health and Exercise Psychology
+EXSC301 Conflict Resolution
+EXSC302 Long Term Program Planning
+EXSC304 Anticipation and Decision Making
+EXSC306 Independent Study in Exercise Science
+EXSC307 Industry Practicum 3
+EXSC310 Coaching Science
+EXSC311 The Australian Sport and Exercise Industry
+EXSC312 River Journeys and Connections to Place
+EXSC313 Aquatics and Athletics
+EXSC314 Healthy Relationships for Young People
+EXSC315 Alpine Ecology and the Outdoor Experience
+EXSC320 Advanced Biomechanics
+EXSC330 Advanced Motor Control and Learning
+EXSC335 Advanced Exercise and Sport Psychology
+EXSC340 Advanced Exercise Physiology
+EXSC346 Exercise Rehabilitation
+EXSC347 Nutrition and Exercise
+EXSC367 Managing Events for Sports and Exercise Organisations
+EXSC369 Marketing and Promotion of Sport and Exercise
+EXSC382 Programs and Practices in Health Promotion
+EXSC385 Challenges and Opportunities in the Health of Young People
+EXSC390 Leadership Practices and the Outdoor Experience
+EXSC391 Evaluation of Outdoor Experience
+EXSC392 Sports Studies 1
+EXSC393 Sports Studies 2
+EXSC394 Exercise Health and Disease
+EXSC395 Outdoor Programming and Mentoring ?Youth at Risk?
+EXSC396 Advanced Coaching Science
+EXSC397 Health Education and Harm Minimisation Strategies
+EXSC398 Professional Experience 3
+EXSC399 Industry Experience 3
+EXSC407 Honours Thesis (Part A)
+EXSC408 Honours Thesis (Part B)
+EXSC411 Research Methods in Health Sciences
+EXSC412 Preparing for Research in Health Sciences
+EXSC413 Data Management in Health Sciences
+EXSC500 Lifestyle and Exercise Counselling
+EXSC501 Neurological Analysis, Prescription and Rehabilitation
+EXSC502 Musculoskeletal Analysis, Prescription and Rehabilitation
+EXSC503 Clinical Experience 1
+EXSC504 Responsible Clinical Practice
+EXSC506 Cardio-Respiratory Analysis, Prescription and Rehabilitation
+EXSC507 Clinical Experience 2
+EXSC600 Thesis (Full-time)
+EXSC601 Thesis (Part-time)
+EXSC609 Scientific and Clinical Report Writing
+EXSC611 Occupational Assessment and Rehabilitation
+EXSC612 Management of a Clinical Business
+EXSC613 Exercise and Ageing
+EXSC614 Pharmacology and Exercise
+EXSC615 Project
+EXSC621 Clinical Biomechanics
+EXSC622 Chronic Disease Prevention
+EXSC623 Neuromuscular Rehabilitation and Training
+EXSC624 Biomechanics
+EXSC625 Advanced Skills for Exercise Science
+EXSC626 Ergonomics
+EXSC627 Chronic Disease Rehabilitation
+EXSC628 Exercise Testing and Prescription for Rehabilitation
+EXSC629 Research Project
+EXSC630 Clinical Placement in Rehabilitation Practice
+EXSC631 Clinical Experience in Rehabilitation
+EXSC632 Neurological Analysis, Prescription and Rehabilitation
+EXSC633 Lifestyle and Exercise Counselling
+EXSC634 Musculoskeletal Analysis, Prescription and Rehabilitation
+EXSC635 Cardiometabolic Analysis and Rehabilitation
+EXSC636 Responsible Clinical Practice
+EXSC637 Clinical Experience 1
+EXSC639 Honours Thesis in Exercise Science
+GEND100 Gender in Society
+GEND101 Introduction to Feminism
+GEND200 Bodies and Feelings
+GEND201 Gender and the Media
+GEND202 Topics in Gender Studies
+GEOG100 Foundations of Physical Geography
+GEOG101 Human Geographies of Globalisation
+GEOG200 Geographies of Development in SE Asia
+GEOG201 Geographical Perspectives of Asia
+GEOG202 Coastal Environments
+GEOG203 Ecological Perspectives of Eastern Asia
+GEOG300 Natural Hazards
+GEOG301 Individual Reading and Research Unit
+GEOG304 Land Evaluation
+GEOG305 Urban Geography
+GLST200 Global Health
+GLST201 Global Change and Development
+HIST102 Australia to 1900
+HIST105 Early Modern Europe
+HIST106 Australian Indigenous Peoples: Past and Present
+HIST107 Modern Australia
+HIST108 The Ancient Near East
+HIST200 Fall of the Roman Republic
+HIST204 Tracing Family History
+HIST205 Australian Social History
+HIST208 European Fascism 1870 - 1945
+HIST209 Germany 1866 - 1945
+HIST210 European Expansion 1500 - 1800
+HIST211 Modern China
+HIST212 Modern Japan
+HIST213 Pacific History
+HIST214 Immigrants in Australian History
+HIST215 Later Modern Europe
+HIST216 Medieval Europe
+HIST218 Women in Australian History
+HIST219 History and Cultures of Southeast Asia
+HIST222 Greek City States
+HIST224 Rise of the United States
+HIST225 US Foreign Policy Since 1945
+HIST228 Australian Popular Culture
+HIST229 Rebels and Revolutions in Latin America
+HIST230 Pompeii in Context
+HIST308 Historiography
+HIST325 Transnational Perspectives on Australian History
+HIST326 A History of Western Childhood
+HIST327 Indigenous Peoples in Settler
+HIST328 Gender in World History
+HIST329 Comparative History of Immigrant Peoples
+HIST330 Contemporary World History
+HIST331 Human Rights in History
+HLSC110 Beginning Professional Practice
+HLSC111 The Person, Health and Wellbeing
+HLSC120 Society, Culture and Health
+HLSC121 Health Assessment
+HLSC122 Inquiry in Health Care
+HLSC210 Mental Health and Illness
+HLSC220 Health Care Ethics
+HLSC241 Spirituality in Health Care
+HLSC301 Community Engagement
+HLSC302 Community Engagement in a Developing Country
+HLSC303 Engaging with People with Dementia
+HLSC401 Research Methods in Health Sciences
+HLSC402 Preparing for Research in Health Sciences
+HLSC403 Data Management in Health Sciences
+HLSC600 Ethics in Contemporary Practice
+HLSC601 Interpreting and Applying Evidence
+HLSC602 Advanced Decision Making
+HLSC603 Organisational Contexts and Management
+HLSC604 Quality in Health Care
+HLSC605 Governance in Health Care
+HLSC606 Resource Management
+HLSC607 Policy and Planning in Health Care
+HLSC608 Theoretical Foundations of Clinical Education
+HLSC609 Facilitating Learning in Clinical Settings
+HLSC610 Assessment and Evaluation
+HLSC611 Clinical Consultation and Negotiation
+HLSC613 Preparing for Research in Health Sciences
+HLSC614 Data Management in Health Sciences Research
+HLSC615 Research Methods in Health Sciences
+HRMG100 Management and People
+HRMG101 Managing Organisations and People
+HRMG200 Strategic Human Resource Management
+HRMG201 Human Resource Development
+HRMG202 Performance Management
+HRMG204 Organisational Behaviour
+HRMG212 Performance Management and Employee Development
+HRMG302 Employment Relations
+HRMG303 Organisational Change
+HRMG305 Contemporary Issues in HRM
+HRMG310 International HRM
+HRMG600 Contemporary Issues of Human Resource Management
+HRMG601 Human Resource Management
+HRMG602 International HRM and Diversity
+HRMG603 Workplace Relations
+HRMG604 Strategic Human Resource
+HUMA105 Australian Leisure and Lifestyle
+HUMA106 Nutrition and Exercise Issues
+HUMA110 Professional Development: Special Study
+HUMA216 Australian Outdoor Recreation
+HUMA217 Fitness for Leisure and Recreation
+HUMA222 4-Unit Overseas Project 1
+HUMA223 1-Unit Overseas Project 1
+HUMA224 2-Unit Overseas Project 1
+HUMA225 1-Unit Overseas Project 2
+HUMA226 2-Unit Overseas Project 2
+HUMA227 3-Unit Overseas Project 1
+HUMA228 3-Unit Overseas Project 2
+HUMA229 4-Unit Overseas Project 2
+HUMA243 Community-Based Experience
+HUMA400 Honours Thesis A (Full-time)
+HUMA401 Honours Thesis A (Part-time)
+HUMA402 Honours Research Methods
+HUMA406 Honours Thesis B (Full-time)
+HUMA407 Honours Thesis B (Part-time) 
+HUMA408 Honours Thesis C (Part-time)
+HUMA409 Honours Thesis D (Part-time)
+HUMA410 Honours Coursework A
+HUMA411 Honours Coursework B
+HUMA500 Professional Development: Special Study
+ISYS101 Fundamentals of Business IS
+ISYS110 Applied Business IS
+ISYS201 IT Infrastructure
+ISYS202 Business Analysis 1
+ISYS203 Application Development 1
+ISYS205 E-Business Design
+ISYS206 Business Intelligence
+ISYS209 Business Analysis 2
+ISYS210 Systems Management
+ISYS300 Application Development 2
+ISYS301 E-Business Applications
+ISYS302 Current Issues in E-Business
+ISYS304 Data Warehousing and Mining
+ISYS305 Information Systems Project
+ISYS308 Business Modelling and Analytics
+ISYS309 Current Issues in BI
+ISYS400 Advanced IS Coursework Unit 1
+ISYS401 Advanced IS Coursework Unit 2
+ISYS403 Honours Thesis Proposal
+ISYS404 Honours Thesis A (Full-time)
+ISYS406 Honours Thesis (Part-time)
+ISYS407 Honours Thesis B (Part-time)
+ISYS408 Honours Thesis C (Part-time)
+ISYS600 Operations and Information Systems
+ISYS601 Information Systems Research Project
+ISYS602 IT Infrastructure
+ISYS603 Database Systems
+ISYS604 Business Software Design
+ISYS605 E-Business
+ISYS606 Web Technologies and Design
+ISYS613 Systems Development Methodologies
+ISYS622 Enterprise Resource Planning
+ISYS650 Health Informatics (eHealth)
+LEGL101 Introduction to Law
+LEGL103 Introduction to International Human Rights Law and Practice
+LEGL201 Company Law
+LEGL203 Hong Kong Company Law
+LEGL204 Business Legal Environment
+LEGL205 Introduction to Health Law
+LEGL206 Filipino Company Law
+LEGL300 Taxation Law
+LEGL301 Filipino Taxation Law
+LEGL304 Employment Law
+LEGL305 Hong Kong Taxation Law
+LEGL306 Marketing Law
+LEGL307 Banking and Finance Law
+LEGL308 Intellectual Property Law
+LEGL309 Australian Financial Markets and Services Law
+LEGL500 Introduction to Education Law
+LEGL501 Governance in Catholic Schools
+LEGL502 Legal Obligations and Rights
+LEGL503 Managing Legal Issues
+LEGL504 The Legal Environment
+LEGL505 Duty of Care
+LEGL507 International Human Rights
+LEGL508 Australian Human Rights
+LEGL509 Human Rights and International NGOs
+LEGL510 Terrorism and Human Rights
+LEGL511 International Human Rights Mechanisms
+LEGL512 Australian Migration Law
+LEGL513 Legal Research Methods
+LEGL515 Applied Study in Human Rights
+LEGL516 Human Rights of Indigenous Peoples
+LEGL517 Governance of State and Independent Schools
+LEGL601 Commercial and Corporations Law
+LEGL602 Taxation Law
+LMGT201 Supply Chain Concepts
+LMGT202 Supply Chain Strategy
+LMGT301 Supply Chain Demand Management
+LMGT310 Supply Chain Inventory Management
+LMGT320 Supply Chain Process Management
+LMGT600 Analysis Tools for Logistics Management
+LMGT601 Logistics and Transport Modelling
+LMGT602 Warehouse Management
+LMGT603 Production Management
+LMGT604 Supply Chain Planning
+LMGT606 Network Planning
+LMGT607 Supply Chain Performance Management
+LMGT688 Supply Chain Management Research Project
+MATH104 Functions and Calculus
+MATH107 Foundations of Mathematics
+MATH117 Mathematical Logic and Proof
+MATH203 Advanced Calculus
+MATH205 Geometry
+MATH216 Abstract Algebra and Equations
+MATH217 Mathematics in Business and Finance
+MATH218 Mathematical Models and Mechanics
+MATH307 Transformation and Symmetries
+MATH308 Number Theory and Cryptography
+MATH309 Networks, Applications and Project Management 
+MATH310 Differential and Difference Equations 
+MATH311 Linear Programming and Applications 
+MATH312 Geometry and Topology 
+MATH512 Calculus 1
+MATH513 Discrete Mathematics
+MATH514 Calculus 2
+MATH515 Geometry
+MATH516 Abstract Algebra
+MEDA100 Introduction to Media Production
+MEDA101 Theorising the Media
+MEDA200 Audio Production 1
+MEDA201 Screen Production 1 
+MEDA202 2D Computer Animation 
+MEDA203 3D Computer Animation 1
+MEDA206 Audio Production 2A
+MEDA207 Audio Production 2B
+MEDA208 Screen Production 2A
+MEDA209 Understanding Screen Texts
+MEDA210 Screen Production 2B
+MEDA211 Media Law
+MEDA213 Power, Propaganda and Persuasion
+MEDA214 Digital Imaging
+MEDA215 Media Production for Social Justice
+MEDA300 Internship
+MEDA301 Event Management and Production for the Community 
+MEDT100 Meditation in the Christian Tradition
+MEDT101 Meditation Across the Life-span
+MEDT102 Meditation and Special Needs
+MEDT103 Meditation in Other Traditions
+MGMT205 Managerial Decision Making
+MGMT206 Indigenous Leadership
+MGMT207 Business Decisions
+MGMT304 Strategic Management
+MGMT305 Management and Leadership
+MGMT307 Cross-Cultural Management
+MGMT308 Project Management
+MGMT605 Strategic Management for Sustainability
+MGMT617 Research Methods
+MGMT618 Research Project
+MGMT621 Management of Change
+MGMT627 Project Management
+MGMT637 Knowledge Management
+MGMT638 Ethical Leadership in Organisations
+MGMT641 Organisational Dynamics and Behaviour
+MGMT644 Values Based Management
+MGMT645 Logistics and Supply Chain Management
+MGMT646 Governance in Not-For-Profit Organisations
+MGMT650 Behavioural Health Economics
+MIDW113 The Childbearing Journey
+MIDW115 Practice Connections
+MIDW127 Beginning the Journey
+MIDW216 Being with Birthing Women
+MIDW218 Practice Collaboration
+MIDW219 Women's Health: Sociopolitical Context
+MIDW245 Therapeutics in Midwifery
+MIDW331 Childbearing Obstacles
+MIDW332 Women's Health: Women's Business
+MIDW333 Practice Challenges
+MIDW335 Babies Needing Extra Care
+MIDW338 Caring for Babies
+MIDW341 Feeding Babies
+MIDW342 Preparing for Midwifery Practice
+MIDW350 Professional Midwifery Practice
+MIDW400 Honours Thesis (Part A)
+MIDW401 Honours Thesis (Part B)
+MIDW508 Contemporary Midwifery Practice
+MIDW515 Midwifery Foundations
+MIDW516 Childbearing Foundations
+MIDW517 Midwifery Practice 1
+MIDW518 Practice Partnerships
+MIDW519 Contexts of Midwifery
+MIDW520 Childbearing Challenges
+MIDW521 Midwifery Practice 2
+MIDW522 Family Mental Health and Wellness
+MIDW523 Ethical Issues and Midwifery Practice
+MIDW605 Global Contexts of Midwifery
+MKTG100 Principles of Marketing
+MKTG102 Marketing Essentials
+MKTG200 Marketing Research
+MKTG201 Consumer Behaviour
+MKTG202 Marketing Communication
+MKTG301 International Marketing
+MKTG302 Retail Marketing
+MKTG305 Services Marketing
+MKTG311 E-Marketing
+MKTG313 Strategic Marketing
+MKTG600 Marketing Management
+MKTG601 Brand Management
+MKTG602 International Marketing
+MKTG603 Marketing Research
+MKTG604 Advanced Consumer Behaviour
+MKTG605 Integrated Marketing Communication
+MKTG606 Strategic Marketing
+MKTG607 E-Marketing
+MKTG608 Services Marketing
+MKTG609 Social Marketing
+MTHA601 M Thel Research Thesis A (Full-time)
+MTHA602 M Thel Research Thesis A (Part-time)
+MTHB601 M Thel Research Thesis B (Full-time)
+MTHB602 M Thel Research Thesis B (Part-time)
+MUSC160 Introduction to Writing and Reading Music
+MUSC202 Music in Australia
+MUSC257 Music of the World
+MUSC258 Popular Song: Words and Music
+MUSC262 Special Study in Music
+MUSC267 Introduction to Writing Music
+MUSC268 Music Writing and Design 1: Song Writing and Arranging 
+MUSC269 Music Writing and Design 2: Contemporary Harmony 
+MUSC272 Ensemble Direction and Performance 1
+MUSC273 Ensemble Direction and Performance 2
+MUSC274 Music and Spirit
+MUSC275 Music Technology 1
+MUSC276 Music Technology 2
+MUSC405 Musicology
+MUSC411 Thesis A (Full-time)
+MUSC412 Thesis A (Part-time)
+MUSC424 Thesis B (Full-time)
+MUSC425 Thesis B (Part-time)
+MUSC426 Thesis C (Part-time)
+MUSC427 Thesis D (Part-time)
+MUSC451 Piano Accompaniment
+MUSC452 Advanced Keyboard Pedagogy
+MUSC453 Advanced Vocal Pedagogy
+MUSC454 Music Criticism and Aesthetics
+MUSC455 Advanced Studies in Music Analysis
+MUSC456 Music Editing and Textual Criticism
+NRHK300 Spirituality in Health Care
+NRHK301 Promoting Health in Extended Care
+NRHK302 Trends in Professional Nursing
+NRHK303 Advanced Health Assessment
+NRHK304 Leading for Quality in Nursing Care
+NRHK305 Research for Practice Improvement
+NRHK306 Practice Issues in Nursing
+NRHK307 Introduction to Traditional Chinese Medicine
+NRHK308 Partnerships in Chronicity
+NRHK309 Practice Project
+NRPL257 Child, Adolescent and Family Nursing (Practice Leadership)
+NRPL258 Acute Care Nursing 1 (Practice Leadership)
+NRPL261 Clinical Integration: Acute Care (Practice Leadership)
+NRPL262 Clinical Integration: Mental Health (Practice Leadership)
+NRPL354 Clinical Integration: Complex Care (Practice Leadership)
+NRPL355 Clinical Integration: Towards Professional Practice (Practice Leadership)
+NRPL367 Transition to Professional Nursing (Practice Leadership)
+NRSG136 Introduction to Australian Nursing Practice
+NRSG137 Introduction to Nursing Practice
+NRSG206 Indigenous Australian Health: Field Study
+NRSG212 Mental Health and Substance Abuse
+NRSG215 Introduction to Nursing Research
+NRSG229 Introduction to Complementary Nursing Therapy
+NRSG232 Global Health
+NRSG234 Introduction to Traditional Chinese Medicine
+NRSG253 Promoting Family Health
+NRSG257 Child, Adolescent and Family Nursing
+NRSG258 Acute Care Nursing 1
+NRSG259 Promoting Health in Extended Care
+NRSG261 Clinical Integration: Acute Care
+NRSG262 Clinical Integration: Mental Health
+NRSG353 Acute Care Nursing 2
+NRSG354 Clinical Integration: Complex Care
+NRSG355 Clinical Integration: Towards
+NRSG356 Medical Surgical Nursing Practice
+NRSG357 Mental Health Nursing Practice
+NRSG358 High Dependency Nursing Practice
+NRSG359 Peri-operative Nursing Practice
+NRSG360 Rehabilitation Nursing Practice
+NRSG361 Paediatric and Child Health Nursing Practice
+NRSG362 Maternity Nursing Practice
+NRSG363 Oncology and Palliative Care Nursing Practice
+NRSG364 Aged Care Nursing Practice
+NRSG365 Community Nursing Practice
+NRSG366 Partnerships in Chronicity
+NRSG367 Transition to Professional Nursing
+NRSG412 Honours Thesis (Part A)
+NRSG413 Honours Thesis (Part B)
+NRSG600 Foundations in Clinical Education
+NRSG601 Teaching in Clinical Settings
+NRSG602 Assessing and Evaluating Clinical Education
+NRSG603 Curriculum Design and Development
+NRSG604 Nurse as Health Promoter and Educator
+NRSG607 Quality in Health Care
+NRSG608 Thesis (Part-time)
+NRSG609 Thesis (Full-time)
+NRSG616 Advanced Clinical Assessment
+NRSG618 Collaborative Practice and Improvement
+NRSG619 Managing Complex Care
+NRSG622 Advanced Clinical Assessment for Nurse Practitioners
+NRSG623 Evidence-Based Practice for Nurse Practitioners
+NRSG624 Collaborative Practice and Improvement for Nurse Practitioners
+NRSG625 Managing Complex Care for Nurse Practitioners
+NRSG626 Inquiry into Nursing Practice
+NRSG627 Nursing Inquiry Project
+NRSG632 Foundations of Specialty Practice
+NRSG633 Specialty Practice 1
+NRSG634 Dimensions of Specialty Practice
+NRSG635 Specialty Practice 2
+NRSG640 Interpreting Health Research
+NRSG646 Qualitative Research Methods
+NRSG647 Quantitative Research Methods
+NRSP601 Clinical Decision Making
+NRST601 Thesis (Full-time)
+NRST602 Thesis (Part-time)
+NRST611 Independent Study 1
+NRST613 Leadership and Health Care
+NRST619 Teaching and Learning in Nursing
+OHSE201 Principles of Occupational Health and Safety
+OHSE202 Principles of Environmental Management
+OHSE211 Case Studies in Occupational Health, Safety and Environment
+OHSE221 Occupational Health, Safety and Environmental Hazards
+OHSE311 Occupational Health, Safety and Environmental Management
+OHSE321 Occupational Health, Safety and Environmental Risk Management
+OHSE331 Occupational Health, Safety and Environmental Law
+OHSE341 Occupational Health, Safety and Environmental Performance Measurement
+OHSE601 Principles of Occupational Health, Safety and Environmental Management
+OHSE602 Occupational Health, Safety and Environmental Management Systems
+OHSE603 Occupational Health, Safety and Environmental Risk Management
+OHSE604 Occupational Health, Safety and Environmental Law
+OHSE611 Occupational Health, Safety and Environmental Auditing
+OHSE612 Ergonomics and Human Factors
+OHSE621 Toxicology and Occupational Hygiene
+OHSE622 Occupational Health, Safety and Environmental Epidemiology
+OHSE688 Occupational Health, Safety and Environmental Research Project
+PERF102 The Nature of Drama
+PERF104 Introduction to Drama
+PERF200 Children’s Theatre
+PERF205 The Production Process
+PERF207 Australian Drama
+PERF208 Comedy
+PERF211 Modern Drama
+PERF212 Modernism to Post-modernism
+PERF215 Screen Studies
+PERF219 Drama in the Community
+PERF302 Drama: Independent Study
+PERF314 Contemporary Theatre
+PERF315 Plays and Playhouses
+PERF316 Playwriting
+PERF317 Theatre in a Social Context
+PERF318 Shakespeare’s Theatre
+PERF319 Theatre Performance
+PERF320 Australian Indigenous Drama
+PHIL100 Introduction to Philosophical Enquiry
+PHIL101 Reason and Argument
+PHIL102 Theories of Human Nature
+PHIL103 Origins of Western Philosophy
+PHIL104 Introduction to Ethics
+PHIL105 Values, Beliefs and the Search for Meaning
+PHIL200 Contemporary Moral Problems
+PHIL201 Bioethics
+PHIL202 Political and Social Philosophy
+PHIL203 Citizenship, Values and Education
+PHIL204 Philosophy of Knowledge
+PHIL205 Mind Matters
+PHIL206 Metaphysics
+PHIL207 Science, Knowledge and Reality
+PHIL208 Faith and Reason
+PHIL209 Philosophy of Art
+PHIL210 Meaning, Truth and Reality
+PHIL211 Ways of Logic, Number and Science
+PHIL212 Currents in Analytic Philosophy
+PHIL213 Recent European Philosophy
+PHIL214 Medieval Philosophy
+PHIL215 Modern Western Philosophy
+PHIL216 The Enlightenment
+PHIL217 Philosophy of East and West
+PHIL218 Issues in Moral Philosophy
+PHIL219 Elementary Symbolic Logic
+PHIL220 Philosophy: Special Study
+PHIL221 Modern Catholic Thinkers
+PHIL500  Philosophy of Religion
+PHIL506  Ethics in a Faith Based Context
+PHIL507  The Philosophy of Human Rights
+PHIL508 Impacts of Regulatory and Legal Frameworks
+PHIL509 Competing Interests, Choice and Conflict
+PHIL510 Introducing Philosophy for Theology
+PHIL601:  Research and Critical Thinking
+PHIL602: Advanced Problems in the Ethics of Health Care
+PHIL604: Issues in the Philosophy of Religion
+PHIL605 Philosophy and the Moral Life
+PHIL606:  Values, Beliefs and Practical Ethics
+PHIL607:  Issues in Resource Allocation
+PHIL608:  Pluralism, State and Civil Society 
+PHIL609 Principles of Bioethics
+PHIL610:  Social Philosophy of Health Care 
+PHIL611:  Philosophy of Medicine 
+PHIL612:  Theories of Business Ethics 
+PHIL613:  Business Ethics and Political Philosophy 
+PHIL614:  Moral Issues in Business 
+PHIL615  Ethics, Capitalism and Globalisation
+PHIL616 Special Studies in Philosophy
+PHIL617 Philosophy Project A 
+PHIL618 Philosophy Project B 
+PHIL619:  Philosophical Foundations and Ministry
+PHIL620 God, the Universe and Everything
+PHIL621 The Problem of Evil
+PHIL622 Truth and Interpretation (Hermeneutics)
+PHIL630 God, the Universe and Everything
+PHIL631 The Problem of Evil
+PHIL632 Truth and Interpretation (Hermeneutics)
+PHIL636 Special Studies in Philosophy
+PHIL637 Philosophy Project A 
+PHTY100 Physiotherapy Anatomy 1
+PHTY101 Physiotherapy Anatomy 2
+PHTY102 Foundations of Physiotherapy Practice 1
+PHTY103 Foundations of Physiotherapy Practice 2
+PHTY200 Physiotherapy Pathophysiology
+PHTY201 Physiotherapy Pathophysiology 2
+PHTY202 Movement Science and Practice 1
+PHTY203 Clinical Exercise Physiology for Physiotherapists
+PHTY204 Movement Science and Practice 2
+PHTY205 Cardiorespiratory Science and Practice 1
+PHTY206 Musculoskeletal Science and Practice 1
+PHTY207 Musculoskeletal Science and Practice 2
+PHYS105 Environmental Physics
+POLS100 The Nature of Democracy
+POLS101 Introduction to Australian Politics
+POLS103 Introduction to Comparative Politics
+POLS200 Issues in Australian Politics
+POLS201 Middle Eastern Politics
+POLS202 Southeast Asian Politics
+POLS203 Introduction to American Politics
+POLS205 Political Psychology
+POLS206 Japanese Politics
+POLS208 Issues in American Politics
+POLS210 Contemporary Australian Indigenous Politics
+POLS211 Contemporary Chinese Politics
+POLS212 Politics in the Developing World
+POLS308 Politics and Public Policy
+POLS309 World Politics and Justice
+PSYC100 Psychology A
+PSYC101 Psychology B
+PSYC104 Research Design and Statistics 1
+PSYC200 Lifespan Development
+PSYC204 Biological Psychology
+PSYC205 Learning and Perception
+PSYC206 Research Design and Statistics 2
+PSYC207 Cross-Cultural Psychology
+PSYC208 Psychology of Organisations
+PSYC209 Psychology of Religion
+PSYC210 Communication Skills
+PSYC211 Small Group Processes
+PSYC212 Abnormal Psychology
+PSYC307 Cognitive Psychology
+PSYC310 Psychological Services Experience
+PSYC311 Research Design and Statistics 3
+PSYC312 Individual Differences and Assessment
+PSYC313 Social Psychology
+PSYC405 Comparative Psychology
+PSYC407 History and Philosophy of Psychology
+PSYC409 Research Project A
+PSYC410 Honours Thesis A
+PSYC412 Psychology of Ageing
+PSYC413 Professional Issues and Ethics
+PSYC414 Cultural Issues for Psychologists
+PSYC415 Theories of Psychoanalysis
+PSYC420 Research Project B
+PSYC421 Honours Thesis B
+PSYC422 Cognitive Neuropsychology
+PSYC423 Assessment and Intervention
+PSYC424 Research Methods
+PSYC613 Practicum A
+PSYC613/614/615 Practicum A, B and C
+PSYC614 Practicum B
+PSYC615 Practicum C
+PSYC616 Thesis - Part 1
+PSYC617 Thesis - Part 2
+PSYC618 Thesis - Part 3
+PSYC620 Advanced Assessment and Intervention
+PSYC630 Psychological Assessment
+PSYC631 Psychological Disorders
+PSYC632 Foundations of Practice
+PSYC633 Counselling One-to-One
+PSYC634 Research Methods
+PSYC635 Assessment and Interventions with Adults
+PSYC636 Child, Youth, and Family Interventions
+PSYC637 Health Psychology
+PSYC645 Learning Processes and Problems
+PSYC646 Typical and Atypical Development
+PSYC647 Advanced Educational and Developmental Assessment
+PSYC702 Practicum D
+PSYC703 Practicum E
+PSYC704 Thesis - Part 4
+PSYC705 Thesis - Part 5
+PSYC706 Thesis - Part 6
+PSYC707 Thesis - Part 7
+PSYC708 Practicum F
+PSYC709 Practicum G
+PSYC711 Practicum E
+PSYC720 Advanced Assessment in Clinical Psychology
+PSYC721 Group and Family Therapy
+PSYC730 Consultation in Educational Settings
+PSYC731 Advanced Seminar in Psycho-Educational Practice
+SCIT204 Science for Technologists
+SCIT400 Research Methods
+SDAB302 Indigenous Studies Curriculum 1
+SDAB400 Indigenous Studies Curriculum 2
+SDFD127 Contexts for Learning and Development
+SDFD133 Understanding Learning
+SDFD220 Teaching and Managing Learning Environments
+SDFD221 Creating Inclusive, Safe and Supportive Schools
+SDFD307 Educational Assessment
+SDFD447 Diversity in the Classroom
+SDFD452 Transition into the Profession
+SDFD454 Curriculum Literacies
+SDFX170 Professional Experience 1
+SDFX207 Community Engagement Program
+SDFX214 Professional Experience Secondary 2
+SDFX311 Professional Experience Secondary 3
+SDFX409 Internship
+SDLA438 English Curriculum and Teaching 1
+SDLA439 English Curriculum and Teaching 2
+SDRE300 Religious Education Curriculum and Teaching Studies 1
+SDRE301 Religious Education Curriculum and Teaching Studies 2
+SOCG102 Introduction to Family Studies
+SOCG103 Historical Perspectives on the Family
+SOCG200 Families in Crisis
+SOCG201 Families and Major Institutions
+SOCG202 Family Support Programs
+SOCG203 Family and Work
+SOCG204 Marriage and Relationship Education
+SOCG205 Special Topics in Family Studies
+SOCG235 Family and the Law
+SOCG236 Social Issues and Policy
+SOCG237 Work Stress and the Family
+SOCG502 Community and Responsibility
+SOCI604 Society, Culture and Self
+SOCI606 Social and Cultural Theory
+SOCI607 Managing the Research Process
+SOCI608 Contemporary Human Service Management
+SOCI609 Social Theory and Social Policy
+SOCS100 Introduction to Sociology 
+SOCS108 Contemporary Society and Change
+SOCS204 Culture and Society
+SOCS206 Globalisation
+SOCS207 Qualitative Sociological Research Methods
+SOCS209 Race and Ethnicity in Australia
+SOCS217 Sociology of Ageing
+SOCS226 Australian Youth Cultures
+SOCS234 Sociological Theory and Practice
+SOCS235 Sociology of Health and Illness
+SOCS236 Sociology of Childhood and Family
+SOCS237 Quantitative Sociological Research Methods
+SOCS238 Sociology of the Environment
+SOCS239 Sociology of Gender and Sexuality
+SOCS240 Sociology of Poverty
+SOCS241 Sociology of Work
+SOCS404 Issues in the Methodology of the Social Sciences
+SOCS406 Advanced Studies in Sociology A
+SOCS407 Advanced Studies in Sociology B
+STAT102 Business Data Analysis
+STAT104 Introduction to Data Analysis
+STAT201 Statistics and Probability
+STAT204 Analysing Business Data
+STAT205 Environmental Data Analysis
+SWTP300 Theories of Justice Administration
+SWTP301 Current issues in Justice and Corrections
+SWTP302 Ethics, Justice and Corrections
+SWTP303 Case Management
+SWTP304 Critical Incident Management
+SWTP305 Managing in the Workplace
+SWTP306 Indigenous and Diverse Groups
+SWTP307 Workplace Research and Learning
+SWTP308 Introduction to Social Work
+SWTP309 Theoretical Frameworks for Social Work Practice
+SWTP310 Social Work Field Education 1
+SWTP311 Social Work with Children, Young People and Families
+SWTP312 Social Work Practice with Individuals and Groups 1
+SWTP313 Social Work Research
+SWTP314 Social Work and Law
+SWTP315 Correctional Practice
+SWTP400 Public Policy for Social Workers
+SWTP401 Social Work Practice with Communities
+SWTP402 Social Work and Mental Health
+SWTP403 Social Work Field Education 2
+SWTP404 Organisational Practice
+SWTP405 Social Work Honours Research Seminar
+SWTP406 Social Work Honours Thesis A (Full-time)
+SWTP407 Social Work Honours Thesis B (Full-time)
+SWTP410 Social Work Honours Thesis 2 (Part-time)
+SWTP411 Social Work Practice with Individuals and Groups 2
+SWTP412 Individual and Community Risk and Resilience
+SWTP413 Social Work Honours Thesis 3 (Part-time)
+SWTP414 Social Work Honours Thesis 1 (Part-time)
+SWTP602 Leadership in Human Service Organisations
+SWTP603 Professional Supervision and Consultation in the Human Services
+SWTP604 Special Studies in the Human Services
+SWTP605 Child Protection: Context and Policy
+SWTP608 Community Participation Practice
+SWTP609 Mental Health Contexts and Policy
+SWTP610 Mental Health Assessment and Diagnosis
+SWTP611 Mental Health Interventions
+SWTP612 Critical Evaluation in the Human Services
+SWTP613 Managing Change in the Human Services
+SWTP614 Gender Issues in the Human Services
+SWTP615 Working with Families with High and Complex Needs
+SWTP616 Models of Intervention in the Human Services
+SWTP617 Cross-Cultural Practice
+SWTP618 Ethics of Human Services Practices
+SWTP619 Welfare Rights and Community Service
+SWTP620 Social Work Theory and Ethics
+SWTP621 Context for Social Work
+SWTP622 Social Work with Individuals
+SWTP623 Legal Systems and Mental Health
+SWTP624 Children, Youth and Family
+SWTP625 Field Practicum 1
+SWTP626 Social Work with Groups
+SWTP627 Social Work with Communities
+SWTP628 Social Work and Policy
+SWTP629 Social Work Research
+SWTP630 Social Work Special Studies
+SWTP631 Field Practicum 2
+TECH105 Design Principles
+TECH107 Design Issues in Timber
+TECH108 Designing with Textiles
+TECH206 Design Issues in Metal
+TECH207 Food Management
+TECH208 Design and Manufacturing
+TECH209 Textile Industries
+TECH210 Food and Nutrition
+TECH211 Control Systems
+TECH212 Textile Innovations
+TECH213 Food Industries
+TECH306 Managing Innovation
+TECH307 Design and Technology Internship
+THBS100 Introduction to the Bible
+THBS101 Archaeology and the Bible
+THBS102 Biblical Languages for Ministry
+THBS200 Pauline Literature
+THBS201 The Synoptic Tradition
+THBS203 Johannine Literature
+THBS204 Biblical Prophets
+THBS205 Narratives of Ancient Israel
+THBS206 Jewish Society: 200 BCE?200 CE
+THBS207 Earliest Christianity: 30-100CE
+THBS208 Special Studies: Biblical Studies
+THBS500 A Synoptic Gospel  
+THBS501 Biblical Studies 
+THBS600 Bible Lands Study Tour 
+THBS601  Literature of the Hebrew Bible  
+THBS602  New Testament Christology 
+THBS603  Pauline Literature
+THBS604  The Gospel of John
+THBS631  Literature of the Hebrew Bible  
+THBS632  New Testament Christology 
+THBS633  Pauline Literature
+THBS634  The Gospel of John
+THCP100 The Signs of the Times
+THCP103 Introduction to Youth Ministry
+THCP200 Prayer and Liturgy
+THCP201 Ministry Studies
+THCP202 Faith and Human Development
+THCP203 Christian Theological Ethics
+THCP204 Theology, Psychology and Human Experience
+THCP205 Church and Social Context
+THCP206 Ecology and Theology
+THCP207 Christian Community Experience
+THCP208 Theology of Communication
+THCP210 Mission of the Church
+THCP211 Practicum in Ministry
+THCP212 The Church’s Teaching Ministry
+THCP213 The Ministry of Pastoral Care
+THCP214 Uniting Worship
+THCP215 Working with Families
+THCP216 Special Studies: Christian Practice
+THCP217 Preaching
+THCP300 Contemporary Issues in Theological Ethics
+THCP510 Celebrating Feasts and Seasons
+THCP511 Ecumenical and Interfaith Dialogue 
+THCP512 Effective Ministry: Communication and Processes in Groups  
+THCP513 Exploring Parish Culture 
+THCP514 Foundations in Liturgy 
+THCP515 Judaism and Islam 
+THCP516 Liturgical Music
+THCP600 Advanced Preaching 
+THCP601 Exercising Leadership in Ministry 
+THCP602 Foundations of Social Justice 
+THCP603 Issues in Christian Ethics 
+THCP604  Spirituality and Ministry in the Christian Tradition 1 
+THCP605  Spirituality and Ministry in the Christian Tradition 2 
+THCP606  Spirituality, Ministry and Practice 1 
+THCP607  Spirituality, Ministry and Practice 2 
+THCP608  Spirituality, Ministry and Practice 3 
+THCP609  Spirituality, Ministry and Practice 4 
+THCP610 The Church Reaching Out 
+THCP630 The Church Reaching Out 
+THCP631 Exercising Leadership in Ministry 
+THCP632 Foundations of Social Justice 
+THCP633 Issues in Christian Ethics 
+THCT100 What Christians Believe
+THCT101 The Church in History
+THCT200 Jesus Christ Today
+THCT201 Theology: Sources and Methods
+THCT202 Christian Symbol, Ritual and Sacrament
+THCT203 Humanity, Hope and Salvation
+THCT204 Defining Moments in Church History
+THCT205 Church: Communion and Community
+THCT206 Church Reform in the 16th and 17th Centuries
+THCT207 Church: Purposes and Practices
+THCT208 The Bible and Christian Ethics
+THCT210 Special Studies: Christian Thought
+THCT211 Jesus, God and Salvation
+THCT301 The Triune God
+THCT302 Contemporary Approaches to Theology
+THCT500 Foundations of Christian Faith 
+THCT501 Jesus the Christ 
+THCT502 Sacraments of Initiation 
+THCT503 The Early Christian World 
+THCT600 Creation, Grace and Salvation
+THCT601 Fundamentals in Theology
+THCT602  Sacraments and Sacramentality 
+THCT630 Creation, Grace and Salvation
+THCT631 Fundamentals in Theology
+THCT632  Sacraments and Sacramentality 
+THEL202 Biblical Hebrew A
+THEL203 New Testament Greek A
+THEL204 Ecclesiastical Latin A
+THEL205 Ecclesiastical Latin B
+THEL206 Ecclesiastical Latin C
+THEL207 Biblical Hebrew B
+THEL208 New Testament Greek B
+THEL400 Research Methods Seminar
+THEL401 Special Studies in Theology 1
+THEL402 Special Studies in Theology 2
+THEL403 Honours Thesis A (Full-time)
+THEL404 Honours Thesis B (Full-time)
+THEL405 Honours Thesis A (Part-time)
+THEL406 Honours Thesis B (Part-time)
+THEL407 Honours Thesis C (Part-time)
+THEL408 Honours Thesis D (Part-time)
+THEL500  Biblical Hebrew A 
+THEL501  Biblical Hebrew B 
+THEL502 Ecclesiastical Latin A 
+THEL503 Ecclesiastical Latin B 
+THEL504 Medieval Latin 
+THEL505 New Testament Greek A 
+THEL506 New Testament Greek B 
+THEL603 Introduction to Ministry
+THEL604 Catholic Social Thought
+THEL605 Theological Reflection on Ministry
+THEL606 Leadership in Ministry
+THEL607 Ministry Practicum 1
+THEL608 Ministry Practicum 2
+THEL609 Contexts of Ministry
+THEL611 Religious Diversity: Ministry in Contemporary Australia
+THEL618 Charism and Spirituality of a Religious Congregation: Handing on the Tradition
+THEL619 Introduction to Theological and Philosophical Research 
+THEL620  Special Studies in Theology 
+THEL621  Theology Project A 
+THEL622  Theology Project B 
+THEL627 Leading the Mission in Catholic Care of the Human Person
+THEL630  Special Studies in Theology 
+THEL631  Theology Project A 
+THEL632  Theology Project B 
+THEL639 Introduction to Theological and Philosophical Research 
+THEL700 Ministry Practicum 3
+THEL701 Research Methods
+THEL702 Research Project A (Full-time)
+THEL703 Research Project B (Full-time)
+THEL704 Research Project C (Full-time)
+THEL705 Research Project A (Part-time)
+THEL706 Research Project B (Part-time)
+THEL707 Research Project C (Part-time)
+THEL708 Research Project D (Part-time)
+THEL709 Research Project E (Part-time)
+THEO228 Christian Life: Worship and Ethics
+THEO563 Introducing Theology
+THEO564 Introducing Church Life
+THEO567 Catholic Ethos and Social Teaching
+THEO568 Catholic Ethos and the Care of the Human Person
+THSR100 Indigenous Spiritualities
+THSR101 Introduction to Judaism and Islam
+THSR200 Hinduism and Buddhism
+THSR202 Religion in Australian Culture
+THSR203 Interfaith Relations and Dialogue
+THSR204 Special Studies: Study of Religions
+THSR500 Introducing World Religions 
+UNHE500 Learning and Teaching in Higher Education
+UNHE501 Curriculum, Assessment and Evaluation 
+UNHE502 Contexts and Issues in Higher Education
+UNHE503 Research-based Learning and Teaching
+UNHE504 Higher Degree Research Supervision
+YSED100 History of Young People
+YSED103 Practicum 1: Working with Youth Organisations and Agencies
+YSED104 Wellbeing and Young People
+YSED200 Researching Young People
+YSED202 Practicum 2: Youth Work Placement
+YSED203 Building Relationships and Supporting Young People
+YSED204 Case Management in Youth Work
+YSED205 Ethical Principles and Practice of Youth Work
+YSED301 Youth Policy
+YSED302 Practicum 3: Interface with Youth
+YSED303 Youth Work in Community Settings
+YSED600 Principles of Effective Youth Work
+YSED601 Critical Issues, Young People and Schooling
+YSED602 Young People at Risk
+YSED604 Youth Cultures
+YSED607 Justice and Young People
+YSED610 Working with Children and Young People
