@@ -27,23 +27,26 @@ class dummyTableCell {
 			$this->is_header = true;
 		}
 
-		if( preg_match_all( self::CELL_ATTRS_REGEX, $cellAttr, $_attrs, PREG_SET_ORDER) ) {
-			for( $a = 0 ; $a < count($_attrs) ; $a += 1 ) {
-				if( $_attrs['key'] === 'id') {
-					$key = 'cellID';
-					$value = trim($_attrs['value']);
+		$wanted_attrs = array('id', 'colspan', 'rowspan');
+		$_attrs = tableCleanSingle::get_attrs_array($cellAttr, $wanted_attrs);
+
+		for( $a = 0 ; $a < 3 ; $a += 1) {
+			$key = $wanted_attrs[$a];
+			if( array_key_exists($key, $_attrs) ) {
+				$value = trim($_attrs[$key]);
+
+				if( $key === 'id' ) {
 					if( $value !== '' ) {
-						$this->defaultID = false;
+						$this->cellID = $value;
 					}
 				} else {
-					$key = $_attrs['key'];
-					if( is_numeric($_attrs['value']) ) {
-						$value = settype($_attrs['value'], 'integer');
+					if( is_numeric($value) ) {
+						settype($value, 'integer');
 					} else {
 						$value = 1;
 					}
+					$this->$key = $value;
 				}
-				$this->$key = $value;
 			}
 		}
 	}
@@ -75,6 +78,15 @@ class dummyTableCell {
 	 * @return string HTML for this cell
 	 */
 	public function get_cell_HTML() { return ''; }
+
+	/**
+	 * get_cells_pos() returns the current position of this cell
+	 *
+	 * @return integer
+	 */
+	public function get_cell_pos() {
+		return $this->cellPos;
+	}
 
 	/**
 	 * get_next_cells_pos() returns the assumed position of the cell
@@ -125,6 +137,24 @@ class dummyTableCell {
 
 	public function is_multi_col() { return ($this->colspan > 1); }
 	public function is_multi_row() { return ($this->rowspan > 1); }
+	public function is_header_cell() { return $this->is_header; }
+
+	public function set_is_header($is_header = true) {
+		if( !is_bool($is_header) ) {
+			throw new Exception(get_class($this).'::set_is_header() expects only parameter $is_header to be boolean. '.gettype($is_header).' given.');
+		}
+		$this->is_header = $is_header;
+	}
+
+	/**
+	 * get_cell_id() gets the cell ID for this cell. If there's no ID
+	 * already set, an ID will be generated based on the cell's
+	 * position in the row and the row's position in table.
+	 *
+	 * @param boolean $override force a default cell ID.
+	 * @return void
+	 */
+	public function get_cell_id($override = false) { return ''; }
 }
 
 
@@ -144,10 +174,8 @@ class tableCell extends dummyTableCell {
 		if( !is_string($rowID) ) {
 			throw new Exception(get_class($this).'::__construct() expects fourth parameter $rowID to be a string. '.gettype($rowID).' given.');
 		}
-		$this->contents = trim($cellContents);
+		$this->contents = trim(str_ireplace('&nbsp;', '', $cellContents));
 		$this->rowID = $rowID;
-
-		$this->_set_row_id($cellPos);
 	}
 
 	/**
@@ -170,6 +198,8 @@ class tableCell extends dummyTableCell {
 				}
 			}
 		}
+
+		$this->headers = array_unique($this->headers);
 	}
 
 	/**
@@ -213,7 +243,7 @@ class tableCell extends dummyTableCell {
 		$type = 'td';
 		$cellID = '';
 
-		if( $this->is_header === true ) {
+		if( $this->is_header === true && $this->contents !== '' ) {
 			$type = 'th';
 			$cellID = $this->get_cell_id();
 		}
@@ -229,9 +259,8 @@ class tableCell extends dummyTableCell {
 		if( $this->classes !== '' ) {
 			$attrs .= ' class="'. $this->classes.'"';
 		}
-
 		if( $this->colspan > 1 ) {
-			$html .= ' colspan="' . $this->colspan . '"';
+			$attrs .= ' colspan="' . $this->colspan . '"';
 		}
 
 		if( $this->rowspan > 1 ) {
@@ -256,9 +285,13 @@ class tableCell extends dummyTableCell {
 	 * @return void
 	 */
 	public function get_cell_id($override = false) {
-		if( ($this->is_header === true && $this->cellID === '') || $override === true ) {
-			$this->cellID = $this->rowID . '_' . $this->cellPos;
+		if( $this->contents !== '' ) {
+			if( ($this->is_header === true && $this->cellID === '') || $override === true ) {
+				$this->cellID = $this->rowID . '_' . $this->cellPos;
+			}
+			return $this->cellID;
+		} else {
+			return '';
 		}
-		return $this->cellID;
 	}
 }

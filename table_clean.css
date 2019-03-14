@@ -1,5 +1,6 @@
 body
 {
+	margin: 0 1em;
 	padding-left: 0.5em;
 	font-size: 80%;
 }
@@ -144,7 +145,11 @@ label.cb input[type='text']
 {
 	width: 20em;
 }
-textarea, input[type="text"] {
+textarea {
+	min-height: 50em;
+	padding: 0.3em 0.5em;
+}
+input[type="text"] {
 	padding: 0.3em 0.5em;
 }
 
@@ -239,6 +244,8 @@ input[type='submit']
 .info
 {
 	position: relative;
+	flex-grow: 1;
+	padding: 0 1em;
 }
 
 .info ul
@@ -324,3 +331,9 @@ input[type='submit']
 }
 
 
+.fields {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin: 0;
+}

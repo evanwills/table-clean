@@ -6,7 +6,25 @@ class tableCleanAll {
 	protected $tables = array();
 	protected $total_tables = 0;
 
-	const TABLE_REGEX = '`<table(?<tableAttrs)>[^<]*)>(?<tableContents>.*?)</table>`is';
+	const META_FIELDS = array(
+		'row_headers' => array(
+			'default' => true,
+			'type' => 'bool'
+		),
+		'table_class' => array(
+			'default' => 'table table-striped table-bordered',
+			'type' => 'string'
+		),
+		'col_classes' => array(
+			'default' => array(),
+			'types' => 'array'
+		),
+		'row_classes' => array(
+			'default' => array(),
+			'types' => 'array'
+		)
+	);
+	const TABLE_REGEX = '`<table(?<tableAttrs>[^<]*)>(?<tableContents>.*?)</table>`is';
 
 	/**
 	 * tableCleanAll extracts tables from HTML so they can be
@@ -15,17 +33,24 @@ class tableCleanAll {
 	 *
 	 * @param string $html HTML with tables that need to be cleaned.
 	 */
-	public function __construct($html, $table_class = '', $column_class = array(), $row_class = array()) {
+	public function __construct($html, $table_meta = false) {
 		if( !is_string($html) ) {
 			throw new Exception(get_class($this).'::__construct() expects only parameter $html to be a string. '.gettype($html).' given!');
+		}
+		if( $table_meta !== false && !is_array($table_meta) ) {
+			throw new Exception('tableCleanAll constructor expects second parameter $table_meta to be either false or an Array. ' . gettype($table_meta) . ' given.');
 		}
 
 		if( preg_match_all( self::TABLE_REGEX , $html , $tables , PREG_SET_ORDER ) ) {
 			$this->total_tables = count($tables);
 
 			for( $a = 0 ; $a < count($tables) ; $a += 1 ) {
-				$this->table[] = new tableCleanSingle( $tables[$a][0] , $tables[$a]['tableAttrs'] , $tables[$a]['tableContents'] , $a + 1 );
+				$this->tables[] = new tableCleanSingle( $tables[$a][0] , $tables[$a]['tableAttrs'] , $tables[$a]['tableContents'] , 'T' . ($a + 1) );
 			}
+		}
+
+		if( $table_meta !== false ) {
+			$this->_process_meta($table_meta);
 		}
 	}
 
@@ -49,5 +74,15 @@ class tableCleanAll {
 		}
 
 		return str_replace($find, $replace, $html);
+	}
+
+	private function _process_meta($meta) {
+		if( !empty($meta) ) {
+			foreach($meta as $key => $value) {
+				if( array_key_exists($key, self::META_FIELDS) && gettype($value === self::META_FIELDS[$key]['type']) ) {
+					$this->$key = $meta[$key];
+				}
+			}
+		}
 	}
 }
